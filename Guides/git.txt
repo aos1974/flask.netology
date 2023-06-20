@@ -11,3 +11,5 @@ git push -u origin main
 git remote add origin https://github.com/aos1974/drf-hw3.git
 git branch -M main
 git push -u origin main
+
+https://github.com/aos1974/flask.netology.git
