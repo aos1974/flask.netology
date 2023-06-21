@@ -1,0 +1,5 @@
+ERD Editor
+
+Визуальный редактор для создания схем БД
+
+https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode
